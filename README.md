@@ -1,4 +1,4 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+# 👨🏻‍💻Customer Shopping Trend Abalysis Project
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 
@@ -21,7 +21,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+   git clone https://github.com/shivamverma18/customer_shopping_trends_analysis-Python-SQL-PowerBI.git
    cd customer-trends-data-analysis-SQL-Python-PowerBI
    ```
 2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
